@@ -156,7 +156,7 @@ gdbo bonex pina elo
 
 Sorted Array:
 
-gdo ehnoy ppale eorp
+> gdo ehnoy ppale eorp
 
 
 
@@ -172,4 +172,4 @@ ftrki olis cim ipgk
 
 Sorted Array:
 
-eforst aertw cink doze
+> eforst aertw cink doze
